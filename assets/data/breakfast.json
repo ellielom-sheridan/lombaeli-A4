@@ -1,0 +1,23 @@
+{
+    "breakfast": 
+      [
+        {
+            "food": "Smoothie",
+            "price": "$4.99", 
+            "cals": "270",
+            "img": "assets/img/smoothie.jpg"
+        },
+        {
+            "food": "Oatmeal",
+            "price": "$2.99", 
+            "cals": "380",
+            "img": "assets/img/oatmeal.jpg"
+        },
+        {
+            "food": "Eggs and Toast",
+            "price": "$2.50", 
+            "cals": "210",
+            "img": "assets/img/eggs.jpg"
+        }
+    ]
+  }

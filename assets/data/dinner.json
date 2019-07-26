@@ -1,0 +1,23 @@
+{
+    "dinner": 
+      [
+        {
+            "food": "Summer Salad",
+            "price": "$15.99", 
+            "cals": "650",
+            "img": "assets/img/summersalad.jpg"
+        },
+        {
+            "food": "Butter Chicken",
+            "price": "$17.99", 
+            "cals": "750",
+            "img": "assets/img/butterchicken.jpg"
+        },
+        {
+            "food": "Cheese Ravioli",
+            "price": "$16.50", 
+            "cals": "570",
+            "img": "assets/img/ravioli.jpg"
+        }
+    ]
+  }

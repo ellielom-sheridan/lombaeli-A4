@@ -1,0 +1,23 @@
+{
+    "lunch": 
+      [
+        {
+            "food": "Poke Bowl",
+            "price": "$10.99", 
+            "cals": "550",
+            "img": "assets/img/poke.jpg"
+        },
+        {
+            "food": "Turkey Sandwich",
+            "price": "$6.99", 
+            "cals": "430",
+            "img": "assets/img/turkeysandwich.jpg"
+        },
+        {
+            "food": "Vegetable Soup",
+            "price": "$4.99", 
+            "cals": "215",
+            "img": "assets/img/soup.jpg"
+        }
+    ]
+  }
